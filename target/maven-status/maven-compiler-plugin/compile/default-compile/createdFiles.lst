@@ -1,3 +1,10 @@
+com\example\franquicia\service\ProductoService.class
+com\example\franquicia\controller\ProductoController.class
+com\example\franquicia\service\SucursalService.class
+com\example\franquicia\controller\SucursalController.class
+com\example\franquicia\controller\FranquiciaController.class
+com\example\franquicia\FranquiciaAppApplication.class
 com\example\franquicia\model\Franquicia.class
 com\example\franquicia\model\Producto.class
 com\example\franquicia\model\Sucursal.class
+com\example\franquicia\service\FranquiciaService.class
